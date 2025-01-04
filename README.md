@@ -2,6 +2,8 @@
 
 Eat-N-Split is a React application that helps users split bills with their friends. The application allows users to add friends, select a friend, and split a bill by specifying the expenses. The app keeps track of the balance between the user and their friends.
 
+Application URL: https://venkatesan-nagooran.github.io/Eat-N-Split/
+
 ## Table of Contents
 
 - [Features](#features)
